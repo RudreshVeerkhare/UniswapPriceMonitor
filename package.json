@@ -1,0 +1,19 @@
+{
+    "name": "UniswapPriceMonitor",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "big.js": "^6.1.1",
+        "bn.js": "^5.2.0",
+        "dotenv": "^8.6.0",
+        "web3": "^1.5.1"
+    }
+}
